@@ -2,8 +2,8 @@
 
 Developed with Unreal Engine 4 and blueprint
 
-1. Execution File</br>
-You can download execution file from google drice
+1. Execution File & Video </br>
+You can download execution file and video from google drice
 https://drive.google.com/drive/folders/1vzwfPXMyiBtPFcKD6yxT41sSGV4uTDQz?usp=sharing
 
 2. Game Description</br>
